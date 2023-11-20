@@ -8,5 +8,5 @@
 7. git add .
 8. git commit -m "---"
 9. git branch -M main
-10. git remote  add origin----
+10. git remote  add origin git@github.com:Fili-student/App.git
 11. git push -u origin main 
